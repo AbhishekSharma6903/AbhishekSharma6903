@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate Frontend developer and Cyber-Security Student from India</h3>
+<h3 align="center">A passionate Cloud-Computing and Cyber-Security Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif">
 
