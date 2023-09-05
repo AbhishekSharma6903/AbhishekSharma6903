@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksharma6903&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksharma6903" /> </p>
 
-- 🌱 I’m currently learning **Web-Development and Competitive Programming**
+- 🌱 I’m currently learning **Ehtical_Hacking and Competitive Programming**
 
-- 💬 Ask me about **ReactJS and NodeJS**
+- 💬 Ask me about **Cloud Computing : AWS **
 
 - 📫 How to reach me **abhiabhishek6903@gmail.com**
 
