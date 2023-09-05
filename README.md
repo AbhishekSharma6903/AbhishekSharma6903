@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ehtical_Hacking and Competitive Programming**
 
-- 💬 Ask me about **Cloud Computing : AWS **
+- 💬 Ask me about **Cloud Computing : AWS**
 
 - 📫 How to reach me **abhiabhishek6903@gmail.com**
 
